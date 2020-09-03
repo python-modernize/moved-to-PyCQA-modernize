@@ -1,2 +1,2 @@
-# moved-to-PyCQA-modernize
-moved to PyCQA/modernize
+# Moved to PyCQA/modernize
+moved to https://github.com/PyCQA/modernize
